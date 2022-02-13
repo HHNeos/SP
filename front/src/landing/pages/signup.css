@@ -1,0 +1,78 @@
+/* .containers {
+    
+
+    align-items: center;
+    
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: left;
+}
+.Tab{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.signUp, .signIn{
+    background-color: #A2A2A1FF;
+    width:50%;
+    font-size: 22px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+.signIn:hover, .signUp:hover {
+    text-decoration: none;
+    color: #fff;
+    align-items: center;
+}
+.activeLink{
+    color: #fff;
+    background-color: #195190FF;
+    align-items: center;
+}
+body{
+    
+    justify-content: center;
+    align-items: center; 
+
+    
+
+} */
+
+.containers {
+    background-color: #A2A2A1FF;
+    padding: 20px 40px;
+    color: #fff;
+    font-weight: 600;
+    box-shadow: 7px -8px 11px -5px rgba(#195190FF);
+}
+.Tab{
+    display: flex;
+    justify-content: space-between;
+}
+.signUp, .signIn{
+    background-color: #A2A2A1FF;
+    width:50%;
+    font-size: 22px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.signIn:hover, .signUp:hover {
+    text-decoration: none;
+    color: #fff;
+}
+.activeLink{
+    color: #fff;
+    background-color: #195190FF;
+}
+body{
+    
+    justify-content: center;
+    align-items: center;
+}
+
